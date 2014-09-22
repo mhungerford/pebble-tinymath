@@ -1,0 +1,17 @@
+{
+  "uuid": "8cdbfe4a-4312-41ee-8751-469a20a0dff3",
+  "shortName": "fractal_tree",
+  "longName": "fractal_tree",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": "1",
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
